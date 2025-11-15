@@ -95,4 +95,5 @@ docker-compose up --build
 
 ##6. Ahora verificamos el funcionamiento en el navegador:
 http://localhost
-<img width="232" height="130" alt="image" src="https://github.com/user-attachments/assets/7df207db-76ef-4b3c-a182-795891149687" />
+<img width="242" height="152" alt="Captura de pantalla 2025-11-15 111134" src="https://github.com/user-attachments/assets/79c2fe66-7666-4112-b215-c57dbdeebeba" />
+
