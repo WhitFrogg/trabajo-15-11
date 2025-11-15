@@ -1,7 +1,7 @@
 # trabajo-15-11
 Este proyecto utiliza **Docker Compose** para levantar un contenedor con **MySQL** y otro con **PHP/Apache**, mostrando los nombres de los integrantes de la base de datos.
 trabajo 1115/
-│
+
 ├─ docker-compose.yml
 ├─ db/
 │ └─ init.sql
@@ -95,5 +95,5 @@ docker-compose up --build
 
 ##6. Ahora verificamos el funcionamiento en el navegador:
 http://localhost
-<img width="242" height="152" alt="Captura de pantalla 2025-11-15 111134" src="https://github.com/user-attachments/assets/79c2fe66-7666-4112-b215-c57dbdeebeba" />
+
 
